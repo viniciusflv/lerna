@@ -1,5 +1,5 @@
 {
-  "name": "@test/testando",
+  "name": "@test2020-09-26/testando",
   "version": "0.0.2-alpha.0",
   "description": "testando",
   "keywords": [
@@ -24,5 +24,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "2e4b75017ee0c9eaaaa33b913dc557ca4e088735"
+  "gitHead": "590332406a3f1a8a15c645430727ceb97c3e924d"
 }
