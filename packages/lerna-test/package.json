@@ -17,6 +17,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/viniciusflv/lerna.git"
@@ -24,5 +27,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "590332406a3f1a8a15c645430727ceb97c3e924d"
+  "gitHead": "e5d52641942586b09cf42aff11eb295c83f543e6"
 }
