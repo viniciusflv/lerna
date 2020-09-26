@@ -3,5 +3,5 @@
 module.exports = lernaTest;
 
 function lernaTest() {
-    // TODO
+    // TODO Test
 }
