@@ -22,7 +22,6 @@
     "url": "git"
   },
   "scripts": {
-    "publish": "lerna publish",
     "test": "echo \"Error: run tests from root\" && exit 1"
   }
 }
